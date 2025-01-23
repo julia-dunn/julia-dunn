@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a student at the University of Notre Dame studying Physics with a minor in Data Science. I am a member of the Glynn Family Honors Program and currently involved in a nuclear astrophysics research project with Professor Manoel Couder.
+
+
 <!--
 **julia-dunn/julia-dunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
