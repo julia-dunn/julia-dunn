@@ -7,6 +7,8 @@ I am a student at the University of Notre Dame studying Physics with a minor in 
 - School: University of Notre Dame
 - Major: Physics
 
+![University of Notre Dame Main Building](https://money-assets.money.com/mcp/2024/152080.jpg)
+
 #### Technical Skills
 
 - Python
