@@ -14,7 +14,7 @@ I am a student at the University of Notre Dame studying Physics with a minor in 
 
 #### Projects
 
-##### Elements of Computing Projects
+##### [Elements of Computing Projects](https://github.com/julia-dunn/DUNN-Python-Portfolio.git)
 
 For my minor in data science at Notre Dame, I am enrolled in a computing course which covers a wide range of computing skills and applications relevant today for a variety of careers. Consequently, it is necessary to cumulate my completed projects such that I can access them in the future. Here is the repository which organizes and demonstrates what I have and will continue to work on.
 
