@@ -3,8 +3,11 @@
 I am a student at the University of Notre Dame studying Physics with a minor in Data Science. I am a member of the Glynn Family Honors Program and currently involved in a nuclear astrophysics research project.
 
 Pronouns: She/Her
+
 Hometown: Glastonbury, CT
+
 School: University of Notre Dame
+
 Major: Physics
 
 #### Technical Skills
