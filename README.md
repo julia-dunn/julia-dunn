@@ -6,8 +6,8 @@ I am a student at the University of Notre Dame studying Physics with a minor in 
 - Hometown: Glastonbury, CT
 - School: University of Notre Dame
 - Major: Physics
-- LinkedIn: [julia-dunn](www.linkedin.com/in/julia-dunn-9919a9285)
-- Email: [jdunn22@nd.edu](jdunn22@nd.edu)
+- LinkedIn: www.linkedin.com/in/julia-dunn-9919a9285
+- Email: jdunn22@nd.edu
 
 ![University of Notre Dame Main Building](https://money-assets.money.com/mcp/2024/152080.jpg)
 
