@@ -6,6 +6,8 @@ I am a student at the University of Notre Dame studying Physics with a minor in 
 - Hometown: Glastonbury, CT
 - School: University of Notre Dame
 - Major: Physics
+- LinkedIn: [julia-dunn](www.linkedin.com/in/julia-dunn-9919a9285)
+- Email: [jdunn22@nd.edu](jdunn22@nd.edu)
 
 ![University of Notre Dame Main Building](https://money-assets.money.com/mcp/2024/152080.jpg)
 
@@ -13,6 +15,10 @@ I am a student at the University of Notre Dame studying Physics with a minor in 
 
 - Python
 - Excel
+
+### Goals
+
+By the end of the semester, I hope to become more well versed in different programming dictionaries, specifically with a focus on data analytics and visualizations as I continue my research in nuclear astrophysics. One of my specific goals, specifically in relation to using GitHub and VSCode is to be more intentional and organized in how I store my files. By being more concrete and explicit in where files are and why, I will be able to more easily access different projects. If by the end of the semester I have developed data skills in computing and an organized portfolio, this will set me up for success in future research projects, especially with regard to my research in physics and future experiment I will be running this summer. 
 
 #### Projects
 
