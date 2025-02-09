@@ -26,7 +26,7 @@ By the end of the semester, I hope to become more well versed in different progr
 
 For my minor in data science at Notre Dame, I am enrolled in a computing course which covers a wide range of computing skills and applications relevant today for a variety of careers. Consequently, it is necessary to cumulate my completed projects such that I can access them in the future. Here is the repository which organizes and demonstrates what I have and will continue to work on.
 
-The first project within this portfolio is a basic streamlit app titled ["Who are Palmer's Penguins"](https://github.com/julia-dunn/DUNN-Python-Portfolio/basic-streamlit-app.git) which is a simple app in which the user can interact with a basic CSV dataset. The goal of this project was to learn the basic syntax of streamlit and develop an understanding of how streamlit apps work and run. 
+The first project within this portfolio is a basic streamlit app titled ["Who are Palmer's Penguins"](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/beeb0c519df8e911a2f0b83560ebc9edb7912d2f/basic-streamlit-app) which is a simple app in which the user can interact with a basic CSV dataset. The goal of this project was to learn the basic syntax of streamlit and develop an understanding of how streamlit apps work and run. 
 
 #### Analysis of Charge States in Recoil Separator 
 
