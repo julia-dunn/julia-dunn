@@ -22,19 +22,27 @@ As I continue my education, I look forward to developing my skills in research a
 
 By the end of the semester, I hope to become more well versed in different programming dictionaries, specifically with a focus on data analytics and visualizations as I continue my research in nuclear astrophysics. One of my specific goals, specifically in relation to using GitHub and VSCode is to be more intentional and organized in how I store my files. By being more concrete and explicit in where files are and why, I will be able to more easily access different projects. If by the end of the semester I have developed data skills in computing and an organized portfolio, this will set me up for success in future research projects, especially with regard to my research in physics and future experiment I will be running this summer. 
 
-#### Projects
+### Projects
 
 #### [Elements of Computing Projects](https://github.com/julia-dunn/DUNN-Python-Portfolio.git)
 
 For my minor in data science at Notre Dame, I am enrolled in a computing course which covers a wide range of computing skills and applications relevant today for a variety of careers. Consequently, it is necessary to cumulate my completed projects such that I can access them in the future. Here is the repository which organizes and demonstrates what I have and will continue to work on.
 
-The first project within this portfolio is a basic streamlit app titled ["Who are Palmer's Penguins"](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/beeb0c519df8e911a2f0b83560ebc9edb7912d2f/basic-streamlit-app) which is a simple app in which the user can interact with a basic CSV dataset. The goal of this project was to learn the basic syntax of streamlit and develop an understanding of how streamlit apps work and run. 
+##### [Who are Palmer's Penguins?](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/beeb0c519df8e911a2f0b83560ebc9edb7912d2f/basic-streamlit-app)
 
-My second project within this portfolio is a project working to tidy data titled ["TidyData-Project"](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/TidyData-Project). This project was valuable in building data analytics and visualization skills, which are necessary for my goals in scientific environments. More specifically, in this project I analyzed a dataset regarding the national budgets for research and development. I also included valuable summary statistics which give an excellent overview of what the dataset did, and didn't, include and what I found to be significant.
+The first project within this portfolio is a basic streamlit app titled "Who are Palmer's Penguins" which is a simple app in which the user can interact with a basic CSV dataset. The goal of this project was to learn the basic syntax of streamlit and develop an understanding of how streamlit apps work and run. 
 
-Next, I created a [Named Entity Recognition (NER) app](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/NERStreamlitApp), which allowed users to input patterns and recognize entities from custom texts. The goal of this project was to develop my skills in creating user friendly software, while understanding basic fundamentals of machine learning. 
+##### [Tidy Data Project](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/TidyData-Project)
 
-Finally, I have put together an app called ["Physics Right of Passage"](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/StreamlitAppFinal), which allows users to input experimental data and engage with basic summaries and analytics. The app is aimed for students in introductory physics, during which they often have to complete many similar experiments to calculate the acceleration due to gravity, as well as error and uncertainty. The goal of building this app was not only to develop my own skills in data analytics on the streamlit platform, but also to create something actually usable that serves a relevant purpose to my field. 
+My second project within this portfolio is a project working to tidy data titled "TidyData-Project". This project was valuable in building data analytics and visualization skills, which are necessary for my goals in scientific environments. More specifically, in this project I analyzed a dataset regarding the national budgets for research and development. I also included valuable summary statistics which give an excellent overview of what the dataset did, and didn't, include and what I found to be significant.
+
+##### [Named Entity Recognition App](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/NERStreamlitApp)
+
+Next, I created a Named Entity Recognition (NER) app, which allowed users to input patterns and recognize entities from custom texts. The goal of this project was to develop my skills in creating user friendly software, while understanding basic fundamentals of machine learning. 
+
+##### [Physics Right of Passage](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/StreamlitAppFinal)
+
+Finally, I have put together an app called "Physics Right of Passage", which allows users to input experimental data and engage with basic summaries and analytics. The app is aimed for students in introductory physics, during which they often have to complete many similar experiments to calculate the acceleration due to gravity, as well as error and uncertainty. The goal of building this app was not only to develop my own skills in data analytics on the streamlit platform, but also to create something actually usable that serves a relevant purpose to my field. 
 
 ![Physics Right of Passage App!](https://github.com/julia-dunn/DUNN-Python-Portfolio/blob/main/app-overview-screenshot.png?raw=true)
 
