@@ -2,6 +2,8 @@
 
 I am a student at the University of Notre Dame studying Physics with a minor in Data Science. I am a member of the Glynn Family Honors Program and currently involved in a nuclear astrophysics research project.
 
+As I continue my education, I look forward to developing my skills in research and programming. As a sophomore at Notre Dame, I am working to be involved in my academic community to prepare myself for grad school. My goal, in the end, is to become a professor of physics where I can both engage in research and academia, while also educating and encouraging students. The skills I continue to build in computing will set me up for success in this field and allow for self sufficiency, while also providing a network of resources. 
+
 - Pronouns: She/Her
 - Hometown: Glastonbury, CT
 - School: University of Notre Dame
