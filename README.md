@@ -36,7 +36,7 @@ The first project within this portfolio is a basic streamlit app titled "Who are
 
 My second project within this portfolio is a project working to tidy data titled "TidyData-Project". This project was valuable in building data analytics and visualization skills, which are necessary for my goals in scientific environments. More specifically, in this project I analyzed a dataset regarding the national budgets for research and development. I also included valuable summary statistics which give an excellent overview of what the dataset did, and didn't, include and what I found to be significant.
 
-##### [Named Entity Recognition App](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/NERStreamlitApp)
+##### [Named Entity Recognition App](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/8507fdf7ad1bff8016c044d1634e5ee81ba2470c/NERStreamlitApp)
 
 Next, I created a Named Entity Recognition (NER) app, which allowed users to input patterns and recognize entities from custom texts. The goal of this project was to develop my skills in creating user friendly software, while understanding basic fundamentals of machine learning. 
 
