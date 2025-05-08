@@ -36,7 +36,7 @@ Next, I created a [Named Entity Recognition (NER) app](https://github.com/julia-
 
 Finally, I have put together an app called ["Physics Right of Passage"](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/StreamlitAppFinal), which allows users to input experimental data and engage with basic summaries and analytics. The app is aimed for students in introductory physics, during which they often have to complete many similar experiments to calculate the acceleration due to gravity, as well as error and uncertainty. The goal of building this app was not only to develop my own skills in data analytics on the streamlit platform, but also to create something actually usable that serves a relevant purpose to my field. 
 
-![Physics Right of Passage App!](https://github.com/julia-dunn/DUNN-Python-Portfolio/blob/main/Screenshot%202025-05-08%20at%201.56.29%20AM.png?raw=true)
+![Physics Right of Passage App!](https://github.com/julia-dunn/DUNN-Python-Portfolio/blob/main/app-overview-screenshot.png?raw=true)
 
 #### Analysis of Charge States in Recoil Separator 
 
