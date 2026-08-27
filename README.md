@@ -18,10 +18,6 @@ As I continue my education, I look forward to developing my skills in research a
 - Python
 - Excel
 
-% ### Goals
-
-% By the end of the semester, I hope to become more well versed in different programming dictionaries, specifically with a focus on data analytics and visualizations as I continue my research in nuclear astrophysics. One of my specific goals, specifically in relation to using GitHub and VSCode is to be more intentional and organized in how I store my files. By being more concrete and explicit in where files are and why, I will be able to more easily access different projects. If by the end of the semester I have developed data skills in computing and an organized portfolio, this will set me up for success in future research projects, especially with regard to my research in physics and future experiment I will be running this summer. 
-
 ### Projects
 
 #### [Elements of Computing Projects](https://github.com/julia-dunn/DUNN-Python-Portfolio)
