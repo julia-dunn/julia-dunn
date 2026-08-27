@@ -20,6 +20,8 @@ As I continue my education, I look forward to developing my skills in research a
 
 ### Projects
 
+#### [Introduction to Data Science Projects](https://github/com/julia-dunn/DUNN-Data-Science-Portfolio)
+
 #### [Elements of Computing Projects](https://github.com/julia-dunn/DUNN-Python-Portfolio)
 
 For my minor in data science at Notre Dame, I am enrolled in a computing course which covers a wide range of computing skills and applications relevant today for a variety of careers. Consequently, it is necessary to cumulate my completed projects such that I can access them in the future. Here is the repository which organizes and demonstrates what I have and will continue to work on.
