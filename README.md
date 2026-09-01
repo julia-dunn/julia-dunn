@@ -15,7 +15,7 @@ As I continue my education, I look forward to developing my skills in research a
 
 #### Technical Skills
 
-- Python
+- Python (Pandas, Numpy, Scikit-Learn, Matplotlib)
 - Excel
 
 ### Projects
