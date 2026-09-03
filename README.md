@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I am a student at the University of Notre Dame studying Physics on the honors track with a concentration in Advanced Physics and a minor in Data Science. I am a member of the Glynn Family Honors Program, an interdisciplinary research focused program for which .
+I am a student at the University of Notre Dame studying Physics on the honors track with a concentration in Advanced Physics and a minor in Data Science. I am a member of the Glynn Family Honors Program, which has a focus on interdisciplinary research. 
 
-As I continue my education, I look forward to developing my skills in research and programming. As a sophomore at Notre Dame, I am working to be involved in my academic community to prepare myself for grad school. My goal, in the end, is to become a professor of physics where I can both engage in research and academia, while also educating and encouraging students. The skills I continue to build in computing will set me up for success in this field and allow for self sufficiency, while also providing a network of resources. 
+As I begin my senior year, I look forward to developing my skills in research and programming. I feel passionately about implementing data science skills for experimental physics applications. In the next few years, I hope to enter a graduate school program to earn a PhD in experimental physics and technology design. Beyond that, I feel passionately about science outreach and engagement. As I continue to be involved in the computing and data science communities, I am confident that these skills will set me up for success in my field of interest while also providing a network of resources.  
 
-- Pronouns: She/Her
 - Hometown: Glastonbury, CT
+- Pronouns: She/Her
 - School: University of Notre Dame
 - Major: Physics
 - LinkedIn: www.linkedin.com/in/julia-dunn-9919a9285
@@ -16,7 +16,17 @@ As I continue my education, I look forward to developing my skills in research a
 #### Technical Skills
 
 - Python (Pandas, Numpy, Scikit-Learn, Matplotlib)
+- LabVIEW
+- LaTeX
 - Excel
+
+#### Experimental Skills
+- Electrical schematic design
+- Circuit construction
+- Data acquisition
+- Laser alignment
+- Laser spectroscopy
+- Vacuum chamber construction and assembly
 
 ### Projects
 
