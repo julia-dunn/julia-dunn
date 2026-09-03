@@ -30,7 +30,7 @@ As I begin my senior year, I look forward to developing my skills in research an
 
 ### Projects
 
-#### [Introduction to Data Science Projects](https://github/com/julia-dunn/DUNN-Data-Science-Portfolio)
+#### [Introduction to Data Science Projects](https://github.com/julia-dunn/DUNN-Data-Science-Portfolio)
 
 #### [Elements of Computing Projects](https://github.com/julia-dunn/DUNN-Python-Portfolio)
 
