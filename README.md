@@ -34,7 +34,7 @@ As I begin my senior year, I look forward to developing my skills in research an
 
 #### [Elements of Computing Projects](https://github.com/julia-dunn/DUNN-Python-Portfolio)
 
-For my minor in data science at Notre Dame, I am enrolled in a computing course which covers a wide range of computing skills and applications relevant today for a variety of careers. Consequently, it is necessary to cumulate my completed projects such that I can access them in the future. Here is the repository which organizes and demonstrates what I have and will continue to work on.
+As a part of my minor in data science at Notre Dame, I completed a computing course that covers a wide range of computing skills and applications relevant for a variety of careers. Thus, I have cumulated my completed projects for easy access moving forward. Linked is the repository which organizes these completed projects and demonstrates the skills I gained.
 
 ##### [Who are Palmer's Penguins?](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/9c37309769a29f51babfd3b4cc1f2f4d21573095/basic-streamlit-app)
 
