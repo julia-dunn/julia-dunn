@@ -40,7 +40,7 @@ As a part of my minor in data science at Notre Dame, I completed a computing cou
 
 ##### [Who are Palmer's Penguins?](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/9c37309769a29f51babfd3b4cc1f2f4d21573095/basic-streamlit-app)
 
-<img width="728" height="575" alt="palmers_penguins" src="https://github.com/user-attachments/assets/0a7893b1-6ea0-487e-b703-38041f67881d" />
+<img src="https://github.com/user-attachments/assets/0a7893b1-6ea0-487e-b703-38041f67881d" align="right" width="300" style="margin-left: 15px;" alt="palmers_penguins" />
 
 The first project within this portfolio is a basic streamlit app titled "Who are Palmer's Penguins" which is a simple app in which the user can interact with a basic CSV dataset. The goal of this project was to learn the basic syntax of streamlit and develop an understanding of how streamlit apps work and run. 
 
