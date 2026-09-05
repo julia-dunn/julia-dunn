@@ -59,7 +59,7 @@ Next, I created a Named Entity Recognition (NER) app, which allowed users to inp
 
 Finally, I have put together an app called "Physics Right of Passage", which allows users to input experimental data and engage with basic summaries and analytics. The app is aimed for students in introductory physics, during which they often have to complete many similar experiments to calculate the acceleration due to gravity, as well as error and uncertainty. The goal of building this app was not only to develop my own skills in data analytics on the streamlit platform, but also to create something actually usable that serves a relevant purpose to my field. 
 
-
+<br style="clear: both;" />
 
 #### Analysis of Charge States in Recoil Separator 
 
