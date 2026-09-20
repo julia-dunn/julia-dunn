@@ -30,6 +30,12 @@ As I begin my senior year, I look forward to developing my skills in research an
 - Laser spectroscopy
 - Vacuum chamber construction and assembly
 
+#### Goals for Introduction to Data Science
+Throughout this semester, I hope to tailor my existing programming and data visualization skills to applications within data science and analytics in industry. Thus far, most of my work has been within my scientific research and specific experimental needs. Although valuable, this experience is not completely transferable to all a career in data analytics. This is an avenue I am interested in learning more about, with the potential to pursue a career in data analytics, streamlined into data engineering. As such, my more specific, concrete goals include:
+- Building a variety of data exploration, tidying, and engineering projects to demonstrate experience and know-how to future employers.
+- Developing the skill of designing, building, and evaluating machine learning and AI models for data applications.
+- Working on data communication, and the other soft skills necessary to be an excellent data analyst, and which demonstrate potential for advancement within the career.
+
 ### Projects
 
 #### [Introduction to Data Science Projects](https://github.com/julia-dunn/DUNN-Data-Science-Portfolio)
