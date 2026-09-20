@@ -10,6 +10,8 @@ As I begin my senior year, I look forward to developing my skills in research an
 - Pronouns: She/Her
 - School: University of Notre Dame
 - Major: Physics
+    - Concentration: Advanced Physics
+    - Minor: Data Science
 - LinkedIn: https://www.linkedin.com/in/julia-m-dunn/
 - Email: jdunn22@nd.edu
 
