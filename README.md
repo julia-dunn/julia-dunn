@@ -17,14 +17,14 @@ As I begin my senior year, I look forward to developing my skills in research an
 
 ![University of Notre Dame Main Building](https://money-assets.money.com/mcp/2024/152080.jpg)
 
-#### Technical Skills
+### Technical Skills
 
 - Python (Pandas, Numpy, Scikit-Learn, Matplotlib)
 - LabVIEW
 - LaTeX
 - Excel
 
-#### Experimental Skills
+### Experimental Skills
 - Electrical schematic design
 - Circuit construction
 - Data acquisition
@@ -32,18 +32,18 @@ As I begin my senior year, I look forward to developing my skills in research an
 - Laser spectroscopy
 - Vacuum chamber construction and assembly
 
-#### Goals for Introduction to Data Science
+### Goals for Introduction to Data Science
 Throughout this semester, I hope to tailor my existing programming and data visualization skills to applications within data science and analytics in industry. Thus far, most of my work has been within my scientific research and specific experimental needs. Although valuable, this experience is not completely transferable to all a career in data analytics. This is an avenue I am interested in learning more about, with the potential to pursue a career in data analytics, streamlined into data engineering. As such, my more specific, concrete goals include:
 - Building a variety of data exploration, tidying, and engineering projects to demonstrate experience and know-how to future employers.
 - Developing the skill of designing, building, and evaluating machine learning and AI models for data applications.
 - Working on data communication, and the other soft skills necessary to be an excellent data analyst, and which demonstrate potential for advancement within the career.
 
-### Projects
+## Projects
 
-#### [Introduction to Data Science Projects](https://github.com/julia-dunn/DUNN-Data-Science-Portfolio)
+### [Introduction to Data Science Projects](https://github.com/julia-dunn/DUNN-Data-Science-Portfolio)
 This portfolio will house the comprehensive data science projects that I will complete throughout this upcoming semester in my Introduction to Data Science course. This includes, but is not limited to, data visualization, data tidying, and machine learning development. Beyond that, I hope to demonstrate a variety of concrete skills related to the industry of data analytics, data science, and data engineering. With each of these projects, I will demonstrate the value I bring to a future employer, the creativity with which I approach problems, and the technical skills I have to solve them.
 
-##### [Spotify Basic App](https://github.com/julia-dunn/DUNN-Data-Science-Portfolio/tree/main/basic_streamlit_app_2)
+#### [Spotify Basic App](https://github.com/julia-dunn/DUNN-Data-Science-Portfolio/tree/main/basic_streamlit_app_2)
 Description: The goal for this portfolio is to house the comprehensive data science projects that I will complete throughout this upcoming semester in my Introduction to Data Science course. This includes, but is not limited to, data visualization, data tidying, and machine learning development. Beyond that, I hope to demonstrate a variety of concrete skills related to the industry of data analytics, data science, and data engineering. With each of these projects, I will demonstrate the value I bring to a future employer, the creativity with which I approach problems, and the technical skills I have to solve them.
 Technical skills: Pandas, Matplotlib, Seaborn, Streamlit
 
@@ -51,32 +51,32 @@ Technical skills: Pandas, Matplotlib, Seaborn, Streamlit
 Description:
 Technical Skills: Pandas, Matplotlib, Seaborn
 
-#### [Elements of Computing Projects](https://github.com/julia-dunn/DUNN-Python-Portfolio)
+### [Elements of Computing Projects](https://github.com/julia-dunn/DUNN-Python-Portfolio)
 
 As a part of my minor in data science at Notre Dame, I completed a computing course that covers a wide range of computing skills and applications relevant for a variety of careers. Thus, I have cumulated my completed projects for easy access moving forward. Linked is the repository which organizes these completed projects and demonstrates the skills I gained.
 
-##### [Who are Palmer's Penguins?](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/9c37309769a29f51babfd3b4cc1f2f4d21573095/basic-streamlit-app)
+#### [Who are Palmer's Penguins?](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/9c37309769a29f51babfd3b4cc1f2f4d21573095/basic-streamlit-app)
 
 <img src="https://github.com/user-attachments/assets/0a7893b1-6ea0-487e-b703-38041f67881d" align="right" width="300" style="margin-left: 15px;" alt="palmers_penguins" />
 
 The first project within this portfolio is a basic streamlit app titled "Who are Palmer's Penguins" which is a simple app in which the user can interact with a basic CSV dataset. The goal of this project was to learn the basic syntax of streamlit and develop an understanding of how streamlit apps work and run. 
 
 
-##### [Tidy Data Project](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/TidyData-Project)
+#### [Tidy Data Project](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/TidyData-Project)
 
 My second project within this portfolio is a project working to tidy data titled "TidyData-Project". This project was valuable in building data analytics and visualization skills, which are necessary for my goals in scientific environments. More specifically, in this project I analyzed a dataset regarding the national budgets for research and development. I also included valuable summary statistics which give an excellent overview of what the dataset did, and didn't, include and what I found to be significant.
 
-##### [Named Entity Recognition App](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/8507fdf7ad1bff8016c044d1634e5ee81ba2470c/NERStreamlitApp)
+#### [Named Entity Recognition App](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/8507fdf7ad1bff8016c044d1634e5ee81ba2470c/NERStreamlitApp)
 
 Next, I created a Named Entity Recognition (NER) app, which allowed users to input patterns and recognize entities from custom texts. The goal of this project was to develop my skills in creating user friendly software, while understanding basic fundamentals of machine learning. 
 
-##### [Physics Right of Passage](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/StreamlitAppFinal)
+#### [Physics Right of Passage](https://github.com/julia-dunn/DUNN-Python-Portfolio/tree/main/StreamlitAppFinal)
 
 <img src="https://github.com/julia-dunn/DUNN-Python-Portfolio/blob/main/app-overview-screenshot.png?raw=true" align="right" width="300" style="margin-left: 15px;" alt="[physics_app" />
 
 Finally, I have put together an app called "Physics Right of Passage", which allows users to input experimental data and engage with basic summaries and analytics. The app is aimed for students in introductory physics, during which they often have to complete many similar experiments to calculate the acceleration due to gravity, as well as error and uncertainty. The goal of building this app was not only to develop my own skills in data analytics on the streamlit platform, but also to create something actually usable that serves a relevant purpose to my field. 
 
-#### Analysis of Charge States in Recoil Separator 
+### Analysis of Charge States in Recoil Separator 
 
 Throughout the spring semester of 2024, I worked to develop a code which could compare experimental data with an external model to understand how accurate the model was as a prediction of physical results. I adjusted the data frames of both the experimental results and predictive model such that they were comparing apples to apples so to speak, and then produced visualizations of the overlap. 
 
